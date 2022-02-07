@@ -8,5 +8,5 @@
 
 - 💬 Ask me about Microsoft Azure, Azure IoT Technologies, .NET Programming, ...
 - 📫 How to reach me: [https://twitter.com/kbeaugrand](https://twitter.com/kbeaugrand), [https://www.linkedin.com/in/kbeaugrand/](https://www.linkedin.com/in/kbeaugrand/)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I'm part of [Microsoft User Group in Clermont-Ferrand](https://www.meetup.com/MugInClermont/) crew.
