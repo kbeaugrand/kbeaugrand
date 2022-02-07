@@ -6,7 +6,7 @@
 
 ☁️🤖Developer and craftsman in the field of information technology 🚀☕️ - [Microsoft MVP Azure](https://mvp.microsoft.com/en-us/PublicProfile/5004641)
 
-- 💬 Ask me about Microsoft Azure, Azure IoT Technologies, .NET Programming, ...
+- 💬 Ask me about **Microsoft Azure**, **Azure IoT Technologies**, **.NET Programming**, ...
 - 📫 How to reach me: [https://twitter.com/kbeaugrand](https://twitter.com/kbeaugrand), [https://www.linkedin.com/in/kbeaugrand/](https://www.linkedin.com/in/kbeaugrand/)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I'm part of [Microsoft User Group in Clermont-Ferrand](https://www.meetup.com/MugInClermont/) crew.
