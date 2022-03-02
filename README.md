@@ -11,3 +11,7 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I'm part of [Microsoft User Group in Clermont-Ferrand](https://www.meetup.com/MugInClermont/) crew
 - 👉🏼 : Follow me on my **French Blog**: [https://kbeaugrand.blog/](https://kbeaugrand.blog/).
+
+[![KBeaugrand's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbeaugrand)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linkedin: kbeaugrand](https://img.shields.io/badge/-kbeaugrand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kbeaugrand)](https://www.linkedin.com/in/kbeaugrand)
