@@ -13,5 +13,7 @@
 - 👉🏼 : Follow me on my **French Blog**: [https://kbeaugrand.blog/](https://kbeaugrand.blog/).
 
 [![KBeaugrand's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbeaugrand)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbeaugrand&layout=compact&hide=c)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin: kbeaugrand](https://img.shields.io/badge/-kbeaugrand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kbeaugrand)](https://www.linkedin.com/in/kbeaugrand)
+
